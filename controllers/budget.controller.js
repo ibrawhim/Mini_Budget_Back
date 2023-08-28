@@ -1,4 +1,4 @@
-    const budgetModel = require('../models/budget.model')
+const budgetModel = require('../models/budget.model')
 
 const userBudget = (req,res)=>{
     console.log(req.body);
